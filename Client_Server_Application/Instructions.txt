@@ -1,0 +1,38 @@
+                                                                      Client-Server Execution Steps
+                                                                     -----------------------------
+
+Step 1: Firstly, we need to open the server code from a file and run it in the console.
+Step 2: Secoundly the client code is opened and executes it in the python console.
+Step 3: In client when we run a file then at the output console we will see two options getting displayed as login and register.
+Step 4: Then we need to select a register option as we are new user.
+Step 5: In register option we need to enter the name,username and password.
+Step 6: If the user who has already registered and tries again to register then it will display the message as "You are already registered here".
+Step 7: Only if the user is not yet registered then it will create an account.
+Step 8: Here after the user got registered then the code is terminated.
+Step 9: We need to re run the client file here and then the user is required to login with the registered account.
+Step 10: During the login stage the user is needed to fill the username and password details.
+Step 11: If the user has entered the correct details then it will login to his account otherwise it display the message as an "invalid userid or password".
+Step 12: If the user has already logged in his account and tries again to login then it will display the message as "You are already logged in".
+Step 13: After the User logs in by entering his account details then the console will display a list of commands such as create folder,write file, Read file, 
+List of Directories, Change foldername and logout.
+Step 14: Then the console will ask user to select any one of the above displayed operations by giving input in the integer foramat.
+Step 15: These number entered by the user are then selected to perform such kind of a file operation.
+Step 16: If the user selects a create folder command then it will ask a folder name, where user provides a specific folder name as "Raghu".
+Step 17: After providing a file name then it will display a message called as folder has been created successfully.
+Step 18: Then the console will again prompt a user to enter any other number,if the user selects a secound command then it will again ask a user to give a folder name in which the user tries to write the file.
+Step 19: Here user enters a folder name called as "Raghu".
+Step 20: After giving a folder name then it will ask user to give a file name,Here the user enters the file name as "Mohit".
+Step 21: After providing a file name then it will prompt the user to provide a message or the information that user tries to write in the given file.
+Step 22: Here the user writes a message in the file and then hits enter such that console will print a message as "File Created".
+Step 23: The console will again ask user to enter his own choice,if the user selects the 3rd option then it will ask a folder name.
+Step 24: The user enters the folder name as Raghu.
+Step 25: After entering the folder name it will again ask a file name.
+Step 26: User enters the file name as "mohit" and hits an enter button such that the 3rd command will read all the contents present in the file thereby it prints all the contents present
+in the file as an output message.
+Step 27: Again the console will ask user to enter his own choice.Here if the user selects the fourth command then it will display all the folders present in that directory.
+Step 28: The console agains prompt user to select his own choice.If user selects the fifth command then it ask a user to enter the folder name.
+Step 29: User enters the folder name as "Raghu" and then it will display an output message as "Changed Successfully" which means that path has been changed to the given folder name.
+Step 30: Console again asks a user to enter his choice, if the user selects the zeroth command then it will print the message as "Log out Successfully" thereby exiting from the loop.
+
+
+
